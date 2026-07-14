@@ -2,7 +2,7 @@
 
 # Gaurang Jagtap
 
-### Junior Software Developer · Backend Development · APIs · Testing
+###  Software Developer · Backend Development · APIs · Testing
 
 Software Engineering postgraduate based in the United Kingdom, with practical experience supporting backend applications, REST APIs, databases, testing, debugging and Agile software delivery.
 
@@ -16,7 +16,7 @@ Software Engineering postgraduate based in the United Kingdom, with practical ex
 
 ## About Me
 
-I am a Junior Software Developer with hands-on experience in backend development and application support.
+I am a  Software Developer with hands-on experience in backend development and application support.
 
 My professional experience includes validating REST API behaviour, investigating application defects, working with SQL and NoSQL databases, supporting Git-based development workflows and collaborating with developers, testers, cloud engineers and Agile delivery teams.
 
@@ -158,7 +158,7 @@ I am currently strengthening my knowledge in:
 
 ## Contact
 
-I am open to junior software development opportunities and conversations about backend, API and automation projects.
+I am open to software development opportunities and conversations about backend, API and automation projects.
 
 * **Portfolio:** [gaurang-portfolio-nine.vercel.app](https://gaurang-portfolio-nine.vercel.app/)
 * **GitHub:** [github.com/Gaurang58](https://github.com/Gaurang58)
