@@ -1,70 +1,70 @@
 <div align="center">
 
-# Gaurang Jagtap
+# 👋 Gaurang Jagtap
 
-###  Software Developer · Backend Development · APIs · Testing
+### 💻  Software Developer · Backend Development · APIs · Testing
 
 Software Engineering postgraduate based in the United Kingdom, with practical experience supporting backend applications, REST APIs, databases, testing, debugging and Agile software delivery.
 
-[Portfolio](https://gaurang-portfolio-nine.vercel.app/) ·
-[GitHub](https://github.com/Gaurang58) ·
-[Email](mailto:gaurangjagtap@gmail.com)
+[🌐 Portfolio](https://gaurang-portfolio-nine.vercel.app/) ·
+[💼 GitHub](https://github.com/Gaurang58) ·
+[📧 Email](mailto:gaurangjagtap@gmail.com)
 
 </div>
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
-I am a  Software Developer with hands-on experience in backend development and application support.
+I am a Software Developer with hands-on experience in backend development and application support.
 
 My professional experience includes validating REST API behaviour, investigating application defects, working with SQL and NoSQL databases, supporting Git-based development workflows and collaborating with developers, testers, cloud engineers and Agile delivery teams.
 
 I am particularly interested in backend engineering, API development, software quality and workflow automation.
 
-* Based in the United Kingdom
-* MSc Software Engineering graduate from the University of Westminster
-* Experienced with Node.js, Express.js, JavaScript, Python, SQL and MongoDB
-* Familiar with unit testing, integration testing, Jest and test-driven development
-* Exposure to Git workflows, pull requests, CI/CD, Docker and cloud environments
-* Open to Junior Developer, Backend Developer and Software Engineer opportunities
+* 📍 Based in the United Kingdom
+* 🎓 MSc Software Engineering graduate from the University of Westminster
+* ⚙️ Experienced with Node.js, Express.js, JavaScript, Python, SQL and MongoDB
+* 🧪 Familiar with unit testing, integration testing, Jest and test-driven development
+* 🚀 Exposure to Git workflows, pull requests, CI/CD, Docker and cloud environments
+* 🤝 Open to Junior Developer, Backend Developer and Software Engineer opportunities
 
 ---
 
-## Technical Skills
+## 🛠️ Technical Skills
 
 <table>
 <tr>
-<td><strong>Backend Development</strong></td>
+<td><strong>⚙️ Backend Development</strong></td>
 <td>JavaScript, Node.js, Express.js, Python and REST APIs</td>
 </tr>
 <tr>
-<td><strong>Databases</strong></td>
+<td><strong>🗄️ Databases</strong></td>
 <td>SQL, MySQL, MongoDB, NoSQL and basic schema design</td>
 </tr>
 <tr>
-<td><strong>Testing</strong></td>
+<td><strong>🧪 Testing</strong></td>
 <td>Jest, unit testing, integration testing, API testing and TDD fundamentals</td>
 </tr>
 <tr>
-<td><strong>Developer Tools</strong></td>
+<td><strong>🔧 Developer Tools</strong></td>
 <td>Git, GitHub, GitLab, Postman, VS Code, Jupyter Notebook and Docker</td>
 </tr>
 <tr>
-<td><strong>Software Delivery</strong></td>
+<td><strong>🚀 Software Delivery</strong></td>
 <td>Agile, Scrum, SDLC, pull requests, CI/CD exposure and technical documentation</td>
 </tr>
 <tr>
-<td><strong>Engineering Practices</strong></td>
+<td><strong>🐞 Engineering Practices</strong></td>
 <td>Debugging, troubleshooting, defect investigation, release support and code review workflows</td>
 </tr>
 </table>
 
 ---
 
-## Selected Projects
+## 🚀 Selected Projects
 
-### Assisted Job Bot
+### 🤖 Assisted Job Bot
 
 A job-search automation project designed to help organise vacancies and support application workflows.
 
@@ -74,7 +74,7 @@ A job-search automation project designed to help organise vacancies and support 
 
 ---
 
-### Airbnb Web API
+### 🏠 Airbnb Web API
 
 A property-booking backend application demonstrating REST API development, business workflows and database integration.
 
@@ -84,7 +84,7 @@ A property-booking backend application demonstrating REST API development, busin
 
 ---
 
-### Cinema Ticket Application
+### 🎟️ Cinema Ticket Application
 
 A Node.js application implementing cinema ticket pricing and validation rules using test-driven development principles.
 
@@ -94,7 +94,7 @@ A Node.js application implementing cinema ticket pricing and validation rules us
 
 ---
 
-### Personal Portfolio
+### 🌐 Personal Portfolio
 
 My personal developer portfolio presenting my professional background, technical skills and software projects.
 
@@ -105,9 +105,9 @@ My personal developer portfolio presenting my professional background, technical
 
 ---
 
-## Professional Experience
+## 💼 Professional Experience
 
-### Software Engineer Trainee — Marks & Spencer
+### 🏢 Software Engineer Trainee — Marks & Spencer
 
 **August 2025 – January 2026**
 
@@ -117,7 +117,7 @@ My personal developer portfolio presenting my professional background, technical
 * Worked with Git-based workflows, pull requests, CI/CD pipelines and structured release practices.
 * Collaborated with developers, testers, cloud engineers and delivery teams to support application quality and release readiness.
 
-### Software Engineer — Anikaay Integration
+### 💻 Software Engineer — Anikaay Integration
 
 **July 2022 – August 2023**
 
@@ -129,7 +129,7 @@ My personal developer portfolio presenting my professional background, technical
 
 ---
 
-## Education
+## 🎓 Education
 
 ### MSc Software Engineering
 
@@ -143,31 +143,31 @@ My personal developer portfolio presenting my professional background, technical
 
 ---
 
-## Current Focus
+## 📚 Current Focus
 
 I am currently strengthening my knowledge in:
 
-* Backend application architecture
-* API design and integration
-* Automated testing and software quality
-* CI/CD and deployment workflows
-* Cloud-based application development
-* AI-assisted development and workflow automation
+* 🧩 Backend application architecture
+* 🔗 API design and integration
+* 🧪 Automated testing and software quality
+* 🚀 CI/CD and deployment workflows
+* ☁️ Cloud-based application development
+* 🤖 AI-assisted development and workflow automation
 
 ---
 
-## Contact
+## 📫 Contact
 
 I am open to software development opportunities and conversations about backend, API and automation projects.
 
-* **Portfolio:** [gaurang-portfolio-nine.vercel.app](https://gaurang-portfolio-nine.vercel.app/)
-* **GitHub:** [github.com/Gaurang58](https://github.com/Gaurang58)
-* **Email:** [gaurangjagtap@gmail.com](mailto:gaurangjagtap@gmail.com)
+* 🌐 **Portfolio:** [gaurang-portfolio-nine.vercel.app](https://gaurang-portfolio-nine.vercel.app/)
+* 💼 **GitHub:** [github.com/Gaurang58](https://github.com/Gaurang58)
+* 📧 **Email:** [gaurangjagtap@gmail.com](mailto:gaurangjagtap@gmail.com)
 
 ---
 
 <div align="center">
 
-Thank you for visiting my profile.
+✨ Thank you for visiting my profile.
 
 </div>
