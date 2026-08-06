@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Gaurang Jagtap
+#   Gaurang Jagtap
 
 ### 💻  Software Developer · Backend Development · APIs · Testing
 
